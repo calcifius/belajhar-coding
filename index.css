@@ -17,3 +17,7 @@ input[type='checkbox'] {
     outline: 1px solid;
 }
 
+label {
+    width: 100%;
+    display: block;
+}
